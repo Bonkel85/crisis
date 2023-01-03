@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/crisis/static/css/main.31d6cfe0.css",
-    "main.js": "/crisis/static/js/main.4cd35db1.js",
+    "main.css": "/crisis/static/css/main.e6fc92aa.css",
+    "main.js": "/crisis/static/js/main.692ce8b0.js",
     "static/media/CRISISlogo.png": "/crisis/static/media/CRISISlogo.f6d57549324f92ddc632.png",
     "static/media/ERASMUSLogo.png": "/crisis/static/media/ERASMUSLogo.c0ba588556b6711aa844.png",
     "index.html": "/crisis/index.html",
-    "main.4cd35db1.js.map": "/crisis/static/js/main.4cd35db1.js.map"
+    "main.e6fc92aa.css.map": "/crisis/static/css/main.e6fc92aa.css.map",
+    "main.692ce8b0.js.map": "/crisis/static/js/main.692ce8b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.4cd35db1.js"
+    "static/css/main.e6fc92aa.css",
+    "static/js/main.692ce8b0.js"
   ]
 }
