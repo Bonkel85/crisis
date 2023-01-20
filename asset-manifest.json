@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crisis/static/css/main.d4420281.css",
-    "main.js": "/crisis/static/js/main.0fc35788.js",
+    "main.css": "/crisis/static/css/main.d59fa6c0.css",
+    "main.js": "/crisis/static/js/main.893a361e.js",
     "static/media/CRISISlogo.png": "/crisis/static/media/CRISISlogo.f6d57549324f92ddc632.png",
     "static/media/eu_cofound.png": "/crisis/static/media/eu_cofound.a5f01c25ca6018bb397e.png",
     "static/media/uniofthe.png": "/crisis/static/media/uniofthe.34ad214679386d3042f5.png",
@@ -10,11 +10,11 @@
     "static/media/ERASMUSLogo.png": "/crisis/static/media/ERASMUSLogo.c0ba588556b6711aa844.png",
     "static/media/unidomin.png": "/crisis/static/media/unidomin.ba87a96e32e00ea91bf3.png",
     "index.html": "/crisis/index.html",
-    "main.d4420281.css.map": "/crisis/static/css/main.d4420281.css.map",
-    "main.0fc35788.js.map": "/crisis/static/js/main.0fc35788.js.map"
+    "main.d59fa6c0.css.map": "/crisis/static/css/main.d59fa6c0.css.map",
+    "main.893a361e.js.map": "/crisis/static/js/main.893a361e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4420281.css",
-    "static/js/main.0fc35788.js"
+    "static/css/main.d59fa6c0.css",
+    "static/js/main.893a361e.js"
   ]
 }
