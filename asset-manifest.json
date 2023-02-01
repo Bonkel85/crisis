@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/crisis/static/css/main.d59fa6c0.css",
-    "main.js": "/crisis/static/js/main.893a361e.js",
-    "static/media/CRISISlogo.png": "/crisis/static/media/CRISISlogo.f6d57549324f92ddc632.png",
-    "static/media/eu_cofound.png": "/crisis/static/media/eu_cofound.a5f01c25ca6018bb397e.png",
-    "static/media/uniofthe.png": "/crisis/static/media/uniofthe.34ad214679386d3042f5.png",
-    "static/media/fuh.png": "/crisis/static/media/fuh.0c24b37adc2f4a19d4ea.png",
-    "static/media/helopuni.png": "/crisis/static/media/helopuni.6db6d38c918709fda6eb.png",
-    "static/media/ERASMUSLogo.png": "/crisis/static/media/ERASMUSLogo.c0ba588556b6711aa844.png",
-    "static/media/unidomin.png": "/crisis/static/media/unidomin.ba87a96e32e00ea91bf3.png",
-    "index.html": "/crisis/index.html",
-    "main.d59fa6c0.css.map": "/crisis/static/css/main.d59fa6c0.css.map",
-    "main.893a361e.js.map": "/crisis/static/js/main.893a361e.js.map"
+    "main.css": "./static/css/main.a9c9df51.css",
+    "main.js": "./static/js/main.a0942709.js",
+    "index.html": "./index.html",
+    "main.a9c9df51.css.map": "./static/css/main.a9c9df51.css.map",
+    "main.a0942709.js.map": "./static/js/main.a0942709.js.map"
   },
   "entrypoints": [
-    "static/css/main.d59fa6c0.css",
-    "static/js/main.893a361e.js"
+    "static/css/main.a9c9df51.css",
+    "static/js/main.a0942709.js"
   ]
 }
